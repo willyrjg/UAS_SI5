@@ -1,8 +1,9 @@
-# SiAkademik ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)&nbsp;![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmuhammadzhuhry%2FSistem-Informasi-Akademik)
+Willy Rajagukguk
+201401091
 
-**SiAkademik** is an system information that can be used by school or other to help them manage their academic data. This system was created by CodeIgniter 3.1.5
+Dibuat dengan CodeIgniter 3.1.5
 
-Feature
+FITUR
 ----------
 - 4 Login Level (dynamic || can be added by yourself)
 - Login With Session
@@ -27,18 +28,4 @@ Feature
 - Input Nilai Siswa
 - Export Data Nilai (e-Raport)
 
-Requitment
-----------
-- PHP 5
 
-Note
-----------
-First Login(Admin) <br>
-**username**: zuhri <br>
-**password**: 123456 <br>
-Database: MySql <br>
-Name: pis_akademik.sql
-
-Support
-----------
-If you have any question, feel free to email me.
